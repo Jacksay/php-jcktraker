@@ -16,5 +16,7 @@
     },
     "autoload": {
         "psr-0": { "Jacksay\\Traker\\": "" }
-    }
+    },
+    "target-dir": "Jacksay/Traker",
+    "minimum-stability": "dev"
 }
