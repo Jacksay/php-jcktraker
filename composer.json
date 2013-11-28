@@ -1,0 +1,17 @@
+{
+    "name": "jacksay/php-jcktraker",
+    "type": "library",
+    "description": "Simple debug bar for PHP as standalone file",
+    "keywords": [],
+    "homepage": "https://github.com/Jacksay/php-jcktraker",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stéphane Bouvry",
+            "email": "jacksay@jacksay.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
